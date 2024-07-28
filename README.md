@@ -1,4 +1,4 @@
-# 📹 Advanced Visual  Extractions  & Summarization
+# 📹 Advanced Visual  Frame Extractions  & Summarization
 
 This repository contains a Streamlit application for advanced video summarization. The application allows users to upload videos, extract key frames, generate captions for each frame using pre-trained models, and summarize the captions into a coherent text summary. The application also includes user authentication and performance metrics visualization.
 
