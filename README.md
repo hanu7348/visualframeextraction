@@ -10,7 +10,6 @@ This repository contains a Streamlit application for advanced video summarizatio
 - [🔧 Technologies Used](#-technologies-used)
 - [🎯 Expected Outcomes](#-expected-outcomes)
 - [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
 
 ## ✨ Features
 
