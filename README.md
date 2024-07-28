@@ -31,3 +31,13 @@ To run this application locally, follow these steps:
 ```bash
 git clone https://github.com/your-username/advanced-video-summarization.git
 cd advanced-video-summarization
+
+2. **Create a virtual environment and activate it:**
+python3 -m venv env
+source env/bin/activate  # On Windows use `env\Scripts\activate`
+
+pip install -r requirements.txt
+
+Run the Streamlit application:
+streamlit run app.py
+
